@@ -4,7 +4,8 @@ Este proyecto implementa un generador simple de melodías utilizando Cadenas de 
 
 ## Autor
 
-**Diego Partida Romero**
+**Diego Partida Romero - A01641113**
+
 _Fecha: 04/05/2025_
 
 ## Descripción
