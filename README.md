@@ -1,6 +1,6 @@
-# Generador de Melodías con Cadenas de Markov
+# Actividad 4.2 Procesos estocásticos
 
-Este proyecto implementa un generador simple de melodías utilizando Cadenas de Markov. El programa genera secuencias de notas musicales basadas en probabilidades de transición entre notas, creando melodías aleatorias pero con estructura matemática.
+Generador de Melodías con Cadenas de Markov. El programa genera secuencias de notas musicales basadas en probabilidades de transición entre notas, creando melodías aleatorias pero con estructura matemática.
 
 ## Autor
 
